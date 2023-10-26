@@ -1,0 +1,18 @@
+{
+  "name": "binar-challenge-chapter-4-risqi",
+  "version": "1.0.0",
+  "description": "1. Node.JS\r 2. Package Management\r 3. Express.JS\r 4. ORM with Prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "prisma": "^5.5.2"
+  }
+}
